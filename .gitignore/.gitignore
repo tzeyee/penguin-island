@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Penguin Island </title>
+<link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<style>
+h1 {background-color: lightblue;text-align:center;color:whitesmoke;}
+ h2 {background-color:beige;}
+ p {font-size:18px;}
+</style>
+<p style="font-size:50px;color: midnightblue;text-align:center;margin-bottom:1px;margin-top:10px"><i><b>Penguin Island</b></i></b></p>
+<img src="images\penguin island.jpg" alt="penguin island.jpg" width=1425px;height=500px>
+<h1 style="margin-top:0px;margin-bottom:0px"><b>Island History</b></h1>
+<p>The island just off the mainland, closest to Rockingham, was first used by Aboriginal people up to 12,000 years ago.
+The local Aboriginal legend tells the tale of a local girl who was believed to have run off with her lover, against the tribal law.
+Located just north of the island is Singing Rock, where it is believed that her tribe chased and caught them, spearing the lover to death and punishing her to imprisonment within the rock.
+ Legend has it that you can hear her singing to her lover today. Although many people cross the sandbar like those in pre-European settlements did, the local Aboriginal elder Theresa Walley installed a warning for visitors in 2002 at Mersey Point to not cross the sandbar.
+ </p>
+ <p>Whilst the Aboriginal people have a long-running history with the island, it was not until 1914 that New Zealander Paul Seaforth McKenzie became the first person to "squat" on the island.
+ Described as a 
+ <i>bearded man with gallant manners and a twinkling eye</i>
+ , he was granted an annual lease from the Western Australian Government in 1918 to establish a holiday resort in the caves. 
+ In 1926, he left the island, returning home to his wife and children after 45 years. 
+ After McKenzie left, shifting sands changed the formation of many of his developed caves; however, today you can still see some nails and an old well in the region.
+ It was not until 1987 that the management of the Department of Conservation and Land bought the island, replacing the shacks with the Penguin Experience Discovery Centre, turning the island into what it is today.</P>
+ <hr></hr>
+ <p style="font-size:50px;color: midnightblue;text-align: center;margin-bottom:1px;margin-top:10px"><i><b>The Penguins</b></i></b></p>
+ <img src="images\little penguins copy.jpg" alt="penguin island.jpg" width=1425px;height=100px>
+ <h1 style=font-size:30px> Penguin Facts </h1>
+ <h2> Background Information </h2>
+ <p> The little penguin is the smallest of the 17 penguin species and is the only one that nests along Australia's mainland coast.
+ These flightless seabirds are superbly adapted to the marine environment.
+ Their wings have evolved into flippers with which they propel themselves, 'flying' underwater.
+ On land they stand upright, walking or waddling awkwardly on their hind legs. 
+ Little penguins have a life expectancy of 6 or 7 years, although some survive for 20 years.</p>
+ <h2> What are they look like? </h2>
+ <p>Little penguins are a bluish-grey colour, with a white underside and throat.
+  They have a black bill, pale pink feet and silvery-grey eyes.
+  The males are slightly bigger than the females, and have a deeper bill and a larger head.
+  Adults stand about 40 centimetres tall and weigh about a kilogram.</p>
+  <h2>Where do they live? </h2>
+  <p> The little penguin occurs along the southern coast of Australia from Fremantle to northern New South Wales.
+  Originally, little penguins were fairly common on the Australian mainland, but these days their colonies are generally restricted to offshore islands.
+  Penguin Island, which is surrounded by the Shoalwater Islands Marine Park, is one of the most northern places this species is found.
+  Penguin Island also has the largest known breeding colony in Western Australia, with an estimated 1200 little penguins and 500 to 700 breeding pairs.</p>
+  <h2> What do they eat and how?</h2>
+  <p> Little penguins can swim 8 kilometres per hour and dive as deep as 60 metres to catch pilchards, whitebait and other small fish. 
+  The little penguin colony on Penguin Island eats more than 100 tonnes of fish every year and may venture up to 200 kilometres from Penguin Island on extended feeding excursions.
+  During breeding they generally feed within 15 kilometres of the island. 
+  The shallow coastal waters of Becher Point, just south of Penguin Island in the Shoalwater Islands Marine Park, is a very important nursery area for juvenile whitebait, the little penguin's favourite food while rearing its chicks.</p>
+  <h2> Predators and Threats</h2>
+  <p> Predation by introduced animals such as foxes, dogs and cats has had a severe impact on birds nesting on the mainland and colonies are now largely confined to offshore islands.
+  At sea, penguins are vulnerable to hazards such as discarded plastics and fishing line, boat strikes and oil pollution, and are also taken by natural predators like sea lions and sharks.
+  Other impacts include people trampling their nest sites, loss of suitable habitat and destabilisation of fore dunes (which may prevent penguins from accessing nest sites).</p>
+  <h2>Behavior</h2>
+  <p>The little penguin has up to nine different calls ranging from short, sharp barks when at sea and sharp, snorting yelps when disturbed.
+  Little penguins are excellent swimmers and are able to spend long periods at sea but they generally spend the day at sea and return to their colonies after dark.
+  Breeding and Raising Their Young Penguin courtship is a noisy affair.
+  The birds constantly squabble and squawk over nest sites.
+  They usually nest in burrows and often set up their colonies in sand dune vegetation, but also shelter among rocks and in caves. 
+  Little penguins start breeding at around the age of 3 years, but those in the Shoalwater area breed earlier and for longer than those elsewhere.
+  Little penguins lay one or more clutches of two eggs between June and September.
+  Both parents sit on the eggs over a five week period. Two chicks often hatch, but usually only one is raised unless food is abundant.
+  For the first 15 days of its life, one parent will remain with the young chick while the other goes in search of food. 
+  After this, the chick is left alone while both parents go fishing. Chicks leave the nest to go to sea once they reach the age of 8 or 9 weeks.</p>
+  
+ 
+ 
+ 
+ 
+ 
+ </head>
+ </html>
